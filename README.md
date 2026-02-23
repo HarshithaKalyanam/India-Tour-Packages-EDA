@@ -81,7 +81,6 @@ git clone https://github.com/your-username/India-Tour-Packages-EDA
 
 ## Author
 **Harshitha Kalyanam**
-Innomatics Research Labs
 
 ## Conclusion
 This project demonstrates how Exploratory Data Analysis can be used to understand tourism data and generate useful insights for decision making.
